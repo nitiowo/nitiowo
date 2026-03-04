@@ -11,4 +11,4 @@ I'm a Ph.D. candidate in the Department of Biological Sciences at the University
 - **Host-parasite transcriptomics** — dual-species RNA-seq to understand how hosts and parasites respond to environmental stressors
 - **Ecological responses to anthropogenic climate change** - statistical analyses of climate change-induced enrionmental effects and transcriptional responses of invertebrates to heat stress
 - **Environmental genomics & metabarcoding** — metabarcoding-based biodiversity monitoring using multi-marker amplicon approaches
-- **Bioinformatics tool development** — building reproducible pipelines for genomic reference database curation and community analysis
+- **Bioinformatics pipeline development** — building reproducible pipelines for genomic reference database curation and community analysis
