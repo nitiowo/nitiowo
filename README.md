@@ -1,6 +1,6 @@
 # Hi, I'm Nitin 👋
 
-I'm a Ph.D. candidate in the Department of Biological Sciences at the University of Notre Dame, broadly interested in the genomics and transcriptomics of host-parasite interactions, biodiversity, and environmental change.
+I'm a Ph.D. candidate in the Department of Biological Sciences at the University of Notre Dame, broadly interested in the genomics and transcriptomics of toxin resistance, host-parasite interactions, biodiversity, and environmental change.
 
 ---
 
